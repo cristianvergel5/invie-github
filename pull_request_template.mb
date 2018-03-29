@@ -1,9 +1,11 @@
 #descripcion
 que ha cambiado?
-
+agregamos soporte para note
 - [ ] fronted
 - [ ] backend
-- [ ] configuracion del server
+- [x] configuracion del server
 
 #como puedo probar los cambios?
-en que irl y forma puedo ver el update
+en que url y forma puedo ver el update
+
+por ejemplo los archivos y las carpetas node_modules ya no se suben al repo, ver el archivo .giignore completo
